@@ -1,2 +1,0 @@
-# seg_folder
- 
